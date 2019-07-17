@@ -8,8 +8,8 @@
 
 var myData = {
     "designer": {
-        "name": "bingxueling",
-        "phone": "137-0987-3456",
+        "name": "Donxj",
+        "phone": "189-2429-6350",
         "tag": ["#视觉和交互设计专家", "#擅长数据分析", "#精通Android和Web开发"],
         "bg": "#CA1913"
     },
